@@ -27,15 +27,15 @@ function Hero(){
 
                 </TypeAnimation>
                 
-               <div className='flex gap-2 justify-center'>
-                <motion.button  initial={{opacity:0, x:-100}} animate={{opacity:1,x:0}} transition={{duration:0.5,delay:0.5}} className='bg-[#00bcd4] px-6 py-3 rounded-full border-none outline-none'>Hire Me</motion.button>
-                <motion.button   initial={{opacity:0, x:100}} animate={{opacity:1,x:0}} transition={{duration:0.5,delay:0.5}} className='px-6 py-3 rounded-full outline-none border-[#00bcd4] border-2'>My Story</motion.button>
+               <div>
+                <a href='src\assets\Dhiraj_Salgare_9822384717.pdf' download><button className='bg-[#00bcd4] px-6 py-3 rounded-full border-none outline-none'>Download Resume</button></a>
+              
                 </div>
 
                 <div className='flex gap-2 justify-center mt-2 '>
-                    <VscGithub size={45} className='text-white border-2 border-[#00bcd4] rounded-full px-2 py-2 hover:shadow-[0px_4px_16px_6px_#00bcd4] duration-300 hover:bg-[#00bcd4]'/>
-                    <FaLinkedinIn className='text-white border-2 border-[#00bcd4] rounded-full px-2 py-2 hover:shadow-[0px_4px_16px_6px_#00bcd4] duration-300 hover:bg-[#00bcd4]' size={45}/>
-                    <SiLeetcode className='text-white border-2 border-[#00bcd4] rounded-full px-2 py-2 hover:shadow-[0px_4px_16px_6px_#00bcd4] duration-300 hover:bg-[#00bcd4]' size={45}/>
+                   <a href='https://github.com/Dhiraj-salgare'><VscGithub size={45} className='text-white border-2 border-[#00bcd4] rounded-full px-2 py-2 hover:shadow-[0px_4px_16px_6px_#00bcd4] duration-300 hover:bg-[#00bcd4]'/></a>
+                   <a href='https://www.linkedin.com/in/dhiraj-salgare-309801201/'><FaLinkedinIn className='text-white border-2 border-[#00bcd4] rounded-full px-2 py-2 hover:shadow-[0px_4px_16px_6px_#00bcd4] duration-300 hover:bg-[#00bcd4]' size={45}/></a> 
+                    <a href='https://leetcode.com/u/Dhiraj3117/'><SiLeetcode className='text-white border-2 border-[#00bcd4] rounded-full px-2 py-2 hover:shadow-[0px_4px_16px_6px_#00bcd4] duration-300 hover:bg-[#00bcd4]' size={45}/></a>
                 </div>
             </motion.div>
 

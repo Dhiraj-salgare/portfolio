@@ -22,7 +22,7 @@ function Work(){
                     <div className='absolute  bottom-0 bg-gradient-to-b from-[rgba(0,0,0,0.5)] to-[#C700FF]  left-0 right-0 z-10 h-0 group-hover:h-full duration-150 flex flex-col justify-center items-center overflow-hidden gap-6 rounded-sm' >
                              <p className='text-white font-bold'>Atm interface using java swing</p>
                              <div className='flex gap-2'>
-                   <a href='https://github.com/Dhiraj-salgare/MovieSearchapp-React.git'><IoIosLink className='text-[#C700FF] bg-white rounded-full px-2 py-2' size={40}></IoIosLink></a>
+                   <a href='https://github.com/Dhiraj-salgare/ATM-interface.git'><IoIosLink className='text-[#C700FF] bg-white rounded-full px-2 py-2' size={40}></IoIosLink></a>
                    <a href=''><RiExternalLinkLine className='text-[#C700FF] bg-white rounded-full px-2 py-2' size={40}/></a>
                    </div>
                     </div>
@@ -34,7 +34,7 @@ function Work(){
                   <div className='absolute  bottom-0 bg-gradient-to-b from-[rgba(0,0,0,0.5)] to-[#C700FF]  left-0 right-0 z-10 h-0 group-hover:h-full duration-150 flex flex-col justify-center items-center overflow-hidden gap-6 rounded-sm' >
                    <p className='text-white font-bold'>Fitness App</p>
                    <div className='flex gap-2'>
-                   <a href='https://github.com/Dhiraj-salgare/MovieSearchapp-React.git'><IoIosLink className='text-[#C700FF] bg-white rounded-full px-2 py-2' size={40}></IoIosLink></a>
+                   <a href=''><IoIosLink className='text-[#C700FF] bg-white rounded-full px-2 py-2' size={40}></IoIosLink></a>
                    <a href=''><RiExternalLinkLine className='text-[#C700FF] bg-white rounded-full px-2 py-2' size={40}/></a>
                    </div>
                    </div>
@@ -61,7 +61,7 @@ function Work(){
                   <div className='absolute  bottom-0 bg-gradient-to-b from-[rgba(0,0,0,0.5)] to-[#C700FF]  left-0 right-0 z-10 h-0 group-hover:h-full duration-150 flex flex-col justify-center items-center overflow-hidden gap-6 rounded-sm' >
                    <p className='text-white font-bold'>Weather App</p>
                    <div className='flex gap-2'>
-                   <a href='https://github.com/Dhiraj-salgare/MovieSearchapp-React.git'><IoIosLink className='text-[#C700FF] bg-white rounded-full px-2 py-2' size={40}></IoIosLink></a>
+                   <a href='https://github.com/Dhiraj-salgare/weatherapp-Redux.git'><IoIosLink className='text-[#C700FF] bg-white rounded-full px-2 py-2' size={40}></IoIosLink></a>
                    <a href=''><RiExternalLinkLine className='text-[#C700FF] bg-white rounded-full px-2 py-2' size={40}/></a>
                    </div>
                    </div>
@@ -75,8 +75,8 @@ function Work(){
                    <p className='text-white font-bold'>Food Delivery Web App (MERN stack)</p>
                   
                    <div className='flex gap-2'>
-                   <a href='https://github.com/Dhiraj-salgare/MovieSearchapp-React.git'><IoIosLink className='text-[#C700FF] bg-white rounded-full px-2 py-2' size={40}></IoIosLink></a>
-                   <a href=''><RiExternalLinkLine className='text-[#C700FF] bg-white rounded-full px-2 py-2' size={40}/></a>
+                   <a href='https://github.com/Dhiraj-salgare/food-delivery.git'><IoIosLink className='text-[#C700FF] bg-white rounded-full px-2 py-2' size={40}></IoIosLink></a>
+                   <a href='https://food-delivery-lilac-two.vercel.app/'><RiExternalLinkLine className='text-[#C700FF] bg-white rounded-full px-2 py-2' size={40}/></a>
                    </div>
                    </div>
 
@@ -88,7 +88,7 @@ function Work(){
                   <div className='absolute  bottom-0 bg-gradient-to-b from-[rgba(0,0,0,0.5)] to-[#C700FF]  left-0 right-0 z-10 h-0 group-hover:h-full duration-150 flex flex-col justify-center items-center overflow-hidden gap-6 rounded-sm' >
                    <p className='text-white font-bold'>Code Reviewer</p>
                    <div className='flex gap-2'>
-                   <a href='https://github.com/Dhiraj-salgare/MovieSearchapp-React.git'><IoIosLink className='text-[#C700FF] bg-white rounded-full px-2 py-2' size={40}></IoIosLink></a>
+                   <a href='https://github.com/Dhiraj-salgare/code-Reviewer.git'><IoIosLink className='text-[#C700FF] bg-white rounded-full px-2 py-2' size={40}></IoIosLink></a>
                    <a href=''><RiExternalLinkLine className='text-[#C700FF] bg-white rounded-full px-2 py-2' size={40}/></a>
                    </div>
                    </div>

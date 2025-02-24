@@ -46,7 +46,7 @@ function Navbar(){
                     </ul>
                 </div>
 
-                <a className="md:text-base lg:text-lg bg-[#00bcd4] hover:bg-cyan-600 text-white px-4 py-2 rounded-full duration-2">Dowload Resume</a>
+                <a className="md:text-base lg:text-lg bg-[#00bcd4] hover:bg-cyan-600 text-white px-4 py-2 rounded-full duration-2" href="">Dowload Resume</a>
             </motion.div>
 
             <div className="flex md:hidden justify-between ">
@@ -71,7 +71,7 @@ function Navbar(){
 
                                 </ul>
 
-                                <a className="text-lg bg-[#00bcd4] hover:bg-purple-400 text-white px-4 py-2 mt-6 rounded-full">Download Resume</a>
+                                <a className="text-lg bg-[#00bcd4] hover:bg-purple-400 text-white px-4 py-2 mt-6 rounded-full" href="src\assets\Dhiraj_Salgare_9822384717.pdf" download>Download Resume</a>
 
                             </div>)
                         }
