@@ -10,6 +10,7 @@ import { FaLinkedinIn } from "react-icons/fa"
 import { TypeAnimation } from 'react-type-animation'
 
 
+
 function Hero(){
     return (
         <div className="text-white h-[600px] flex justify-center items-center flex-wrap flex-wrap-reverse lg:h-[700px]">
@@ -28,7 +29,7 @@ function Hero(){
                 </TypeAnimation>
                 
                <div>
-                <a href='src\assets\Dhiraj_Salgare_9822384717.pdf' download><button className='bg-[#00bcd4] px-6 py-3 rounded-full border-none outline-none'>Download Resume</button></a>
+                <a href='/Dhiraj_Salgare_9822384717.pdf' download><button className='bg-[#00bcd4] px-6 py-3 rounded-full border-none outline-none'>Download Resume</button></a>
               
                 </div>
 

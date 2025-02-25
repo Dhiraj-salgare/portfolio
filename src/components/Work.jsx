@@ -9,6 +9,7 @@ import { IoIosLink } from "react-icons/io";
 import { RiExternalLinkLine } from "react-icons/ri";
 import code from '../assets/code.jpg'
 
+
 function Work(){
     return (
         <motion.div className="container mx-auto  mt-10 px-2 py-2" id='work'>
