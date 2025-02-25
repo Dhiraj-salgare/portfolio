@@ -71,7 +71,7 @@ function Navbar(){
 
                                 </ul>
 
-                                <a className="text-lg bg-[#00bcd4] hover:bg-purple-400 text-white px-4 py-2 mt-6 rounded-full" href="src\assets\Dhiraj_Salgare_9822384717.pdf" download>Download Resume</a>
+                                <a className="text-lg bg-[#00bcd4] hover:bg-purple-400 text-white px-4 py-2 mt-6 rounded-full" href="/Dhiraj_Salgare_9822384717.pdf" Download>Download Resume</a>
 
                             </div>)
                         }
