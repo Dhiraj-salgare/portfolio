@@ -11,7 +11,7 @@ function App() {
   
   
   return (
-    <div className='bg-[#0e0c1e] scroll-smooth'>
+    <div className='bg-[#0e0c1e] scroll-smooth px-2'>
 
         <Navbar></Navbar>
         <Hero></Hero>
